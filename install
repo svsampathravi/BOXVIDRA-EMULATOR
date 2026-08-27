@@ -212,7 +212,7 @@ case "$i" in
 3)
    echo -n "Installing Windows 10 theme (Red, Gaming) ..."
 
-   wget -q --show-progress -O Windows.10.Red.tar.xz https://github.com/AGENT404TRD/BOXVIDRA-EMULATOR/releases/download/Themes/Windows.10.Red.tar.xz
+   wget -q --show-progress -O Windows.10.Red.tar.xz https://github.com/Chrisklucik0/BOXVIDRA-EMULATOR/releases/download/Themes/Windows.10.Red.tar.xz
    tar -xf Windows.10.Red.tar.xz
    cd 'Windows 10 Red'
    cp -r .icons /data/data/com.termux/files/home/
@@ -236,7 +236,7 @@ case "$i" in
 4)
    echo -n "Installing Windows 10 theme (Purple, Space) ..."
 
-   wget -q --show-progress -O Windows.10.Purple.tar.xz https://github.com/AGENT404TRD/BOXVIDRA-EMULATOR/releases/download/Themes/Windows.10.Purple.tar.xz
+   wget -q --show-progress -O Windows.10.Purple.tar.xz https://github.com/Chrisklucik0/BOXVIDRA-EMULATOR/releases/download/Themes/Windows.10.Purple.tar.xz
    tar -xf Windows.10.Purple.tar.xz
    cd 'Windows 10 Purple'
    cp -r .icons /data/data/com.termux/files/home/
